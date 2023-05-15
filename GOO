@@ -1,11 +1,11 @@
 {
     "Enable": true,
-    "PermissLang": ["tr", "pt", "id"],
+    "PermissLang": ["tr", "pt", "in"],
     "PermissTz": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha", "Jayapura", "Makassar", "Jakarta"],
     "Links": 
     [ 
           { "Lang":"tr", "Link": "https://1wukrs.top/casino/list?open=register"},
           { "Lang":"pt", "Link": "https://1wgjvn.top/casino/list?open=register"},
-          { "Lang":"id", "Link": "https://betworld.pro/go/4b0710f7b214426b959ae4242aaa9b3e365b64d1eb0a0b0b/"}
+          { "Lang":"in", "Link": "https://betworld.pro/go/4b0710f7b214426b959ae4242aaa9b3e365b64d1eb0a0b0b/"}
     ]
  }
